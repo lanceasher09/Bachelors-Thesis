@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Python](https://img.shields.io/badge/python-3%2B-blue)
 ![Model](https://img.shields.io/badge/Model-DenseNet121-orange)
+![Remote Sensing](https://img.shields.io/badge/Domain-Remote%20Sensing-blueviolet)
+![GIS](https://img.shields.io/badge/Tool-GIS-darkgreen)
 ![Status](https://img.shields.io/badge/Status-Pending%20Publication-green)
 
 ## 📄 Abstract
@@ -54,7 +56,8 @@ $$\text{Fire Area (ha)} = \frac{\text{NFirePixels} \times 100 m^2}{10,000 m^2}$$
 
 > ![Sample Output](Sample%20Output.png)
 
-## 📜 Citation [Pending Publication]
+
+## 📜 Citation 
 If you use this work, please cite:
 ```bibtex
 @article{ForestFire,
@@ -63,3 +66,7 @@ If you use this work, please cite:
   journal={[JOIG-Journal of Image and Graphics]},
   year={2026}
 }
+```
+
+## ⚖️ License
+This work is distributed under the **Creative Commons Attribution 4.0 International License (CC-BY 4.0)**.
