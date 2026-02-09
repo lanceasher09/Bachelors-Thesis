@@ -1,4 +1,8 @@
-# Forest Fire Detection: Cross-Sensor Transfer Learning (Landsat-8 to Sentinel-2)
+# Forest Fire Detection: Cross-Sensor Transfer
+Learning with DenseNet-121 from Landsat-8 to
+Sentinel-2 Satellite Imagery in Benguet,
+Philippines
+
 
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Python](https://img.shields.io/badge/python-3%2B-blue)
