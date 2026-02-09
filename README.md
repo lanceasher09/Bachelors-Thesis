@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Pending%20Publication-green)
 
 ## 📄 Abstract
-**[Click here to read the full Publication PDF]([https://github.com/lanceasher09/Bachelors-Thesis/blob/main/EGM_ForestFire_JOIG-template_Revised_FINAL.pdf])**
+**[Click here to read the full Publication PDF](https://github.com/lanceasher09/Bachelors-Thesis/blob/main/EGM_ForestFire_JOIG-template_Revised_FINAL.pdf)**
 
 This project addresses the critical lack of labeled forest fire datasets in developing nations, specifically the Philippines. We propose a cost-effective, **cross-sensor transfer learning framework** using **DenseNet-121**.
 
@@ -47,12 +47,12 @@ The model was evaluated on an independent, unseen Sentinel-2 test set. The cross
 ### 3. Severity Estimation
 Using Grad-CAM, we generate heatmaps to identify activated fire regions. The area is calculated based on pixel resolution ($10m \times 10m = 100m^2$ per pixel).
 
-$$\text{Fire Area (ha)} = \frac{\text{N\_FirePixels} \times 100 m^2}{10,000 m^2}$$
+$$\text{Fire Area (ha)} = \frac{\text{NFirePixels} \times 100 m^2}{10,000 m^2}$$
 
 ## Visual Results (Grad-CAM)
 *Below is an example of the model detecting fire patterns and estimating severity (as detailed in the paper).*
 
-> https://github.com/lanceasher09/Bachelors-Thesis/blob/main/Sample%20Output.png?raw=true
+> ![Sample Output](Sample%20Output.png)
 
 ## 📜 Citation [Pending Publication]
 If you use this work, please cite:
